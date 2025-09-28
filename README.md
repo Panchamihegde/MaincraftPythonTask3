@@ -21,6 +21,6 @@ Expense Tracker 2.0 is a simple command-line interface (CLI) application built i
    - View the total spending for a specified month.
 ---
 ##Technologies Used:
-   1.Python 3
+   1.Python 
    2. CSV for data storage
    3.Command-Line Interface (CLI)
